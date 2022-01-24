@@ -4,7 +4,6 @@
 
 
 ## 🔥 Streak Stats
-
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -13,7 +12,6 @@
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 <!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
