@@ -2,7 +2,7 @@
 <!--
 **suhashollakc/suhashollakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/suhashollakc/suhashollakc/"> </a> 
+ <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/suhashollakc/"> </a> 
 <br/>
 
 ## 🔥 Streak Stats
