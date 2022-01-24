@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--
 **suhashollakc/suhashollakc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suhashollakc&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
