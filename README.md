@@ -6,27 +6,26 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const suhas = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["javascript", "python", "java", "php", "dart"],
+    askMeAbout: ["web dev", "tech", "app dev", "design"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["flutter","react-native"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["reactJS", "nextJS"],
+            css: ["tailwind-css", "sass", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express", "laravel"],
+            python: ["django","flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "socket.io", "selenium", "open-cv", "adobe-xd", "adobe-illustrator"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: "I am developing a cross-platform application using flutter",
+    quoteILove: "That's been one of my mantras - focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains. Steve Jobs"
 };
 ```
 
